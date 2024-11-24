@@ -1,5 +1,5 @@
 
-# BankingSystem Project
+# Banking System Project
 
 This repository contains the implementation of a Banking System application. It is built following key software design principles like SOLID, Dependency Injection, and Clean Code practices.
 
